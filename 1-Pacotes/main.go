@@ -1,8 +1,9 @@
 package main
 
 import (
-	"modulo/pacotes-auxiliares"
 	"fmt"
+	pacotesauxiliares "modulo/1-Pacotes/pacotes-auxiliares"
+	
 )
 
 func main() {
